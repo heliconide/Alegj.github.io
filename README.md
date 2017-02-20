@@ -1,3 +1,2 @@
 # Alejandra González Jiménez
-Pagina personal de Ale 
-ALMEJI 
+Pagina personal de Ale
