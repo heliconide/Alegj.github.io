@@ -5,7 +5,7 @@ date:   2021-02-20
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
-- jekyll 
+- jekyll
 - moon
 - blog
 - about
@@ -25,7 +25,7 @@ Su padre se llamaba Mnesárquides o Mnesarco, poseía grandes extensiones de ter
 
 Eurípides fue un hombre cultamente inquieto que frecuento diversos círculos intelectuales atenienses. Se relacionó con los sofistas, con los que tenía algunas afinidades de pensamiento, pero discrepaba en otros aspectos. El poeta trágico también se interesó por la política, pero no lo hizo tanto de forma activa (parece ser que no tuvo ningún cargo público), sino desde un punto de vista más teórico. Era un ferviente defensor de la democracia y atacaba sin paliativos los gobiernos oligárquicos y tiránicos.
 
-Por lo que respecta a su vida privada, sabemos que Eurípides llegó a casarse dos veces –con Melito y Quérine (o Quérile) –, tuvo tres hijos: Mnesárquides, Mnesíloco, y Eurípides el Joven, pasaba grandes temporadas en su propiedad de Salamina, escribiendo y leyendo los manuscritos de su biblioteca, que cada vez tenía más ejemplares. Sobre su carácter, la fragmentaria *Vida de Eurípides* escrita por Sátiro[[1\]](https://medium.com/p/dda771cdb78a/edit#_ftn1) aseguraba que tenía fama de misógino («Lo odiaban todos […] las mujeres por los reproches que les dirigía en sus poemas»), pero esa fama parece poco justificada.
+Por lo que respecta a su vida privada, sabemos que Eurípides llegó a casarse dos veces –con Melito y Quérine (o Quérile) –, tuvo tres hijos: Mnesárquides, Mnesíloco, y Eurípides el Joven, pasaba grandes temporadas en su propiedad de Salamina, escribiendo y leyendo los manuscritos de su biblioteca, que cada vez tenía más ejemplares. Sobre su carácter, la fragmentaria *Vida de Eurípides* escrita por Sátiro[[1\]](#_ftn1) aseguraba que tenía fama de misógino («Lo odiaban todos […] las mujeres por los reproches que les dirigía en sus poemas»), pero esa fama parece poco justificada.
 
 Por lo que se refiere a noticias específicas sobre su actividad dramática, se tiene testimonio de que Eurípides se presentó por primera vez a uno de los concursos dramáticos atenienses en el 455 a. C. y que en toda sus carrera fue galardonado cuatro veces (cinco, si se incluye el éxito póstumo obtenido por *Ifigenia en Áulide)*, obteniendo el primer premio una única vez, lo cual es un balance paupérrimo, si se tiene en cuenta el volumen de su obra y su prestigio ya en sus coetáneos. Este triste balance sólo se puede entender, teniendo en cuenta diversos factores. En primer lugar, probablemente era un escritor demasiado moderno para la sociedad ateniense de entonces, que no estaba preparada para aceptar un nuevo estilo y lenguaje teatral basado quizá más en actitudes terrenales que divinas. En segundo lugar la mentalidad abierta de su filosofía vital y de sus propuestas disentía de la ideología extraordinariamente conservadora de la mayor parte de sus contemporáneos. No obstante, las abundantes referencias sobre Eurípides que hace un autor tan exitoso como Aristófanes en su obra indican que el trágico no sólo era una persona muy conocida entre los atenienses, sino que sus obras eran ya populares.
 
@@ -67,7 +67,7 @@ Es muy comprensible que estas tragedias de Eurípides conmovieran y, a la vez, e
 
 Lo cierto es que Eurípides fue el dramaturgo decisivo para el teatro posterior. Tanto en el griego –incluso en la comedia nueva– como en el romano. Seneca se inspiró en él constantemente. Y luego su huella ha resurgido en cualquier intento de teatro neoclásico, en Racine, por ejemplo. Muchos han visto en él, con muy clara razón, no sólo al trágico más moderno, humano y realista, sino al más trágico de los trágicos, como ya dijo Aristóteles, un buen conocedor del género.
 
-[[1\]](https://medium.com/p/dda771cdb78a/edit#_ftnref1) Sátiro; Gelio, XV,20; la Vida de ciertos manuscritos; la Suda
+[[1\]](ftnref1) Sátiro; Gelio, XV,20; la Vida de ciertos manuscritos; la Suda
 
 **Bibliografía**
 
