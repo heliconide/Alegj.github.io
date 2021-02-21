@@ -11,9 +11,10 @@ tag:
 - tragedia
 comments: true
 ---
-<figure
-    <[Euripides.jpg](C:\Users\helic\OneDrive\Documents\GitHub\Alegj.github.io\assets\img\Euripides.jpg)
-    <figcaption>figura de marmol.</figcaption>
+
+<figure>
+	<a href="Euripides.jpg"><img src="Euripides.jpg"></a>
+	<figcaption><a href="Euripides,jpg" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
 **Eurípides, herma de mármol copiada de un original griego, c. 340-330 a. C.; en el Museo Archeologico Nazionale, Nápoles. Cortesía de la Soprintendenza alle Antichita della Campania, Nápoles*
