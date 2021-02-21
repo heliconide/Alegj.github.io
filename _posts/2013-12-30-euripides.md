@@ -14,6 +14,15 @@ comments: true
 
 ![euripides.jpg](C:\Users\helic\OneDrive\Documents\GitHub\Alegj.github.io\assets\img\Euripides.jpg)
 
+
+
+```html
+<figure class=>
+    <a href="/images/Euripides.jpg"><img src="/images/Euripides.jpg"></a>
+    <figcaption>**Eurípides, herma de mármol copiada de un original griego, c. 340-330 a. C.; en el Museo Archeologico Nazionale, Nápoles. Cortesía de la Soprintendenza alle Antichita della Campania, Nápoles*</figcaption>
+</figure>
+```
+
 **Eurípides, herma de mármol copiada de un original griego, c. 340-330 a. C.; en el Museo Archeologico Nazionale, Nápoles. Cortesía de la Soprintendenza alle Antichita della Campania, Nápoles*
 
 ## Vida y obra de Eurípides
