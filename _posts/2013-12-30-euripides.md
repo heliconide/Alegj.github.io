@@ -3,17 +3,16 @@ layout: post
 title:  "Euripides"
 date:   2013-12-30
 excerpt: "El poeta trágico Eurípides representa el tercer escalón generacional."
-project: true
 tag:
-- jekyll
-- moon
-- blog
-- about
-- theme
+- classics
+- eurípides
+- recepción 
+- tradición
+- tragedia
 comments: true
 ---
 
-![**Eurípides, herma de mármol copiada de un original griego, c. 340-330 a. C.; en el Museo Archeologico Nazionale, Nápoles. Cortesía de la Soprintendenza alle Antichita della Campania, Nápoles*](C:\Users\helic\Downloads\Euripides.jpg)
+![](C:\Users\helic\Downloads\Euripides.jpg)
 
 **Eurípides, herma de mármol copiada de un original griego, c. 340-330 a. C.; en el Museo Archeologico Nazionale, Nápoles. Cortesía de la Soprintendenza alle Antichita della Campania, Nápoles*
 
