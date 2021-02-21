@@ -6,13 +6,13 @@ excerpt: "El poeta trágico Eurípides representa el tercer escalón generaciona
 tag:
 - classics
 - eurípides
-- recepción 
+- recepción
 - tradición
 - tragedia
 comments: true
 ---
 
-![](C:\Users\helic\Downloads\Euripides.jpg)
+'assets/img/Euripides.jpg'
 
 **Eurípides, herma de mármol copiada de un original griego, c. 340-330 a. C.; en el Museo Archeologico Nazionale, Nápoles. Cortesía de la Soprintendenza alle Antichita della Campania, Nápoles*
 
