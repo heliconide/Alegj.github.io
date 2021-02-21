@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
 
-**Artículo anteriormente publicado en https://medium.com/greek-literature/euripides-dda771cdb78a
+**Artículo anteriormente publicado en [Medium](https://medium.com/greek-literature/euripides-dda771cdb78a).**
 
 <img src="/assets/img/Euripides.jpg" style="zoom: 50%;" />
 
