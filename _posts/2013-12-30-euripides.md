@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Euripides"
-date:   2021-02-20
-excerpt: "Minimal, one column Jekyll theme for your blog."
+date:   2013-12-30
+excerpt: "El poeta trágico Eurípides representa el tercer escalón generacional."
 project: true
 tag:
 - jekyll
@@ -12,6 +12,10 @@ tag:
 - theme
 comments: true
 ---
+
+![**Eurípides, herma de mármol copiada de un original griego, c. 340-330 a. C.; en el Museo Archeologico Nazionale, Nápoles. Cortesía de la Soprintendenza alle Antichita della Campania, Nápoles*](C:\Users\helic\Downloads\Euripides.jpg)
+
+**Eurípides, herma de mármol copiada de un original griego, c. 340-330 a. C.; en el Museo Archeologico Nazionale, Nápoles. Cortesía de la Soprintendenza alle Antichita della Campania, Nápoles*
 
 ## Vida y obra de Eurípides
 
@@ -25,7 +29,7 @@ Su padre se llamaba Mnesárquides o Mnesarco, poseía grandes extensiones de ter
 
 Eurípides fue un hombre cultamente inquieto que frecuento diversos círculos intelectuales atenienses. Se relacionó con los sofistas, con los que tenía algunas afinidades de pensamiento, pero discrepaba en otros aspectos. El poeta trágico también se interesó por la política, pero no lo hizo tanto de forma activa (parece ser que no tuvo ningún cargo público), sino desde un punto de vista más teórico. Era un ferviente defensor de la democracia y atacaba sin paliativos los gobiernos oligárquicos y tiránicos.
 
-Por lo que respecta a su vida privada, sabemos que Eurípides llegó a casarse dos veces –con Melito y Quérine (o Quérile) –, tuvo tres hijos: Mnesárquides, Mnesíloco, y Eurípides el Joven, pasaba grandes temporadas en su propiedad de Salamina, escribiendo y leyendo los manuscritos de su biblioteca, que cada vez tenía más ejemplares. Sobre su carácter, la fragmentaria *Vida de Eurípides* escrita por Sátiro[[1\]](#_ftn1) aseguraba que tenía fama de misógino («Lo odiaban todos […] las mujeres por los reproches que les dirigía en sus poemas»), pero esa fama parece poco justificada.
+Por lo que respecta a su vida privada, sabemos que Eurípides llegó a casarse dos veces –con Melito y Quérine (o Quérile) –, tuvo tres hijos: Mnesárquides, Mnesíloco, y Eurípides el Joven, pasaba grandes temporadas en su propiedad de Salamina, escribiendo y leyendo los manuscritos de su biblioteca, que cada vez tenía más ejemplares. Sobre su carácter, la fragmentaria *Vida de Eurípides* escrita por Sátiro [1] aseguraba que tenía fama de misógino («Lo odiaban todos […] las mujeres por los reproches que les dirigía en sus poemas»), pero esa fama parece poco justificada.
 
 Por lo que se refiere a noticias específicas sobre su actividad dramática, se tiene testimonio de que Eurípides se presentó por primera vez a uno de los concursos dramáticos atenienses en el 455 a. C. y que en toda sus carrera fue galardonado cuatro veces (cinco, si se incluye el éxito póstumo obtenido por *Ifigenia en Áulide)*, obteniendo el primer premio una única vez, lo cual es un balance paupérrimo, si se tiene en cuenta el volumen de su obra y su prestigio ya en sus coetáneos. Este triste balance sólo se puede entender, teniendo en cuenta diversos factores. En primer lugar, probablemente era un escritor demasiado moderno para la sociedad ateniense de entonces, que no estaba preparada para aceptar un nuevo estilo y lenguaje teatral basado quizá más en actitudes terrenales que divinas. En segundo lugar la mentalidad abierta de su filosofía vital y de sus propuestas disentía de la ideología extraordinariamente conservadora de la mayor parte de sus contemporáneos. No obstante, las abundantes referencias sobre Eurípides que hace un autor tan exitoso como Aristófanes en su obra indican que el trágico no sólo era una persona muy conocida entre los atenienses, sino que sus obras eran ya populares.
 
@@ -43,7 +47,7 @@ Es muy difícil establecer una clasificación cronológica de sus tragedias, que
 
 Los manuscritos de Eurípides acostumbran a dividirse en dos familias: los principales representantes de la primera son: M (Marcianus Graecus, 471) del siglo XII; B (Parisinus, 2713) del siglo XII; A (Parisinus, 2712) del XIII; V (Vaticanus, 909) del XIII; H (Palimpsesto de Jerusalén) del X; O (Laurentianus, 31, 10) del XIV. De la segunda, L (Laurentianus, 32: 2) y P (Palatinus 287) ambos del XIV. En el primero, faltan *Las Troyanas* y *Reso*; el segundo contiene todas las obras.
 
-Como apunta López Férez (1988: 393), los manuscritos medievales con obras de Eurípides se remontan a una selección de siete tragedias (*Alcestis, Medea, Hipólito, Andrómaca, Hécate, Las Fenicias, Orestes)* formada en círculos próximos a la Universidad de Constantinopla a partir del siglo V de nuestra era. A estas siete tragedias se unieron después *Las Troyanas y Reso.* Son los nueve dramas, dotados de escolios, fuente última del prototipo de la primera familia de manuscritos, fechable a comienzos del siglo VI. De mediados del siglo VI sería el prototipo de la segunda familia, bien representada por los códices L y P que contienen las siete tragedias mencionadas más el resto de dramas, en concreto *Las Bacantes* y, por una feliz casualidad los llamados dramas alfabéticos de Eurípides, que reciben tal denominación por la ordenación alfabética de las piezas en él contenidas. En efecto, éstos son *Electra, Helena, Heracles, Heraclidas, Suplicantes (Hikétides* en griego), *Ifigenia entre los Tauros* e *Ifigenia en Áulide*, *Ión* y *El Cíclope (*kýkl¯o ps en griego).
+Como apunta López Férez (1988: 393), los manuscritos medievales con obras de Eurípides se remontan a una selección de siete tragedias (*Alcestis, Medea, Hipólito, Andrómaca, Hécate, Las Fenicias, Orestes)* formada en círculos próximos a la Universidad de Constantinopla a partir del siglo V de nuestra era. A estas siete tragedias se unieron después *Las Troyanas y Reso.* Son los nueve dramas, dotados de escolios, fuente última del prototipo de la primera familia de manuscritos, fechable a comienzos del siglo VI. De mediados del siglo VI sería el prototipo de la segunda familia, bien representada por los códices L y P que contienen las siete tragedias mencionadas más el resto de dramas, en concreto *Las Bacantes* y, por una feliz casualidad los llamados dramas alfabéticos de Eurípides, que reciben tal denominación por la ordenación alfabética de las piezas en él contenidas. En efecto, éstos son *Electra, Helena, Heracles, Heraclidas, Suplicantes (Hikétides* en griego), *Ifigenia entre los Tauros* e *Ifigenia en Áulide*, *Ión* y El Cíclope (*Κύκλωψ*  en griego).
 
 Nuestro conocimiento, por tanto, de los textos se basa principalmente en esta edición alfabética contenida, como se acaba de decir, en un único manuscrito de comienzos del siglo XIV que se encuentra en la actualidad en la Biblioteca Laurenciana de Florencia (L). El propio escriba incluyó algunas variantes en el texto y anotaciones explicatorias. Con posterioridad, este manuscrito L fue intensamente anotado y alterado en tres etapas que pueden seguirse por el color de las tintas empleadas, por el erudito bizantino Demetrio Triclinio (Tr). El testimonio de L recibe en ocasiones la ayuda de P, un manuscrito de la misma fecha que L y, de hecho, copia de él, que se halla en la Biblioteca Vaticana. Las lecturas de P son útiles únicamente cuando las lecturas originales de L resultan ilegibles, en especial por las subsiguientes alteraciones de Demetrio Triclinio.
 
@@ -67,9 +71,9 @@ Es muy comprensible que estas tragedias de Eurípides conmovieran y, a la vez, e
 
 Lo cierto es que Eurípides fue el dramaturgo decisivo para el teatro posterior. Tanto en el griego –incluso en la comedia nueva– como en el romano. Seneca se inspiró en él constantemente. Y luego su huella ha resurgido en cualquier intento de teatro neoclásico, en Racine, por ejemplo. Muchos han visto en él, con muy clara razón, no sólo al trágico más moderno, humano y realista, sino al más trágico de los trágicos, como ya dijo Aristóteles, un buen conocedor del género.
 
-[[1\]](ftnref1) Sátiro; Gelio, XV,20; la Vida de ciertos manuscritos; la Suda
+[1] Sátiro; Gelio, XV,20; la Vida de ciertos manuscritos; la Suda
 
-**Bibliografía**
+### Bibliografía
 
 EURÍPIDES, *Medea*, Madrid. Biblioteca básica Gredos, 2010, Introducción por Carlos García Dual.
 
