@@ -11,8 +11,8 @@ tag:
 - tragedia
 comments: true
 ---
-<figure class
-    <[euripides.jpg](C:\Users\helic\OneDrive\Documents\GitHub\Alegj.github.io\assets\img\Euripides.jpg)
+<figure
+    <[Euripides.jpg](C:\Users\helic\OneDrive\Documents\GitHub\Alegj.github.io\assets\img\Euripides.jpg)
     <figcaption>figura de marmol.</figcaption>
 </figure>
 
