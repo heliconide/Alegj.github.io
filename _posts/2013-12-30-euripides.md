@@ -11,8 +11,10 @@ tag:
 - tragedia
 comments: true
 ---
-
-![euripides.jpg](C:\Users\helic\OneDrive\Documents\GitHub\Alegj.github.io\assets\img\Euripides.jpg)
+<figure class
+    <[euripides.jpg](C:\Users\helic\OneDrive\Documents\GitHub\Alegj.github.io\assets\img\Euripides.jpg)
+    <figcaption>figura de marmol.</figcaption>
+</figure>
 
 **Eurípides, herma de mármol copiada de un original griego, c. 340-330 a. C.; en el Museo Archeologico Nazionale, Nápoles. Cortesía de la Soprintendenza alle Antichita della Campania, Nápoles*
 
