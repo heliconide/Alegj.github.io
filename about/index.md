@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://twitter.com/heliconide"><b>Alejandra González Jiménez</b></a> *Diseñadora, creadora de contenido y administradora del sitio web Desde Themyscira*  </center>
+<center><a href="https://twitter.com/heliconide"><b>Alejandra González Jiménez</b></a></center>
 
 <center> *Diseñadora, creadora de contenido y administradora del sitio web Desde Themyscira*  </center>
 
