@@ -7,11 +7,7 @@ comments: false
 ---
     
 <center><a href="https://twitter.com/heliconide"><b>Alejandra González Jiménez</b></a></center>
-
-<center> *Diseñadora, creadora de contenido y administradora del sitio web Desde Themyscira*  </center>
-
-[Desde Themyscira](https://desdethemysciraffyl.mx/){: .btn}
-
+<center>**Diseñadora, creadora de contenido y administradora del sitio web Desde Themyscira**</center>
 
 Curiosa investigadora de las interacciones humanas y su entorno, así como de la edición de textos antiguos a través de plataformas digitales.
 
