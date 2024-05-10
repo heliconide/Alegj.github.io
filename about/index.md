@@ -6,12 +6,12 @@ date: 2024-05-10
 comments: false
 ---
     
-## <center><a href="https://twitter.com/heliconide"><b>Alejandra González Jiménez</b></a></center>
-<center><i> Helenista, latinista, libertaria y amante de la música, las flores y el arte</i></center>
+## <center><a href="https://desdethemysciraffyl.mx/bio_ale"><b>Alejandra González Jiménez</b></a></center>
+<center><i> Helenista, latinista, libertaria y amante de la música, las flores y el arte.</i></center>
 
 Curiosa investigadora de las interacciones humanas y su entorno, así como de la edición de textos antiguos a través de plataformas digitales.
 
-A veces diseñadora, creadora de contenido y administradora del sitio web <a href="https://desdethemysciraffyl.mx/"> Desde Themyscira.</a> donde comparte mi fascinación por la cultura clásica y su compromiso con la creatividad y la expresión personal.
+A veces diseñadora, creadora de contenido y administradora del sitio web <a href="https://desdethemysciraffyl.mx/"> Desde Themyscira.</a> donde comparte su fascinación por la cultura clásica y su compromiso con la creatividad y la expresión personal.
 
 Actualmente está trabajando en el proyecto de tesis [Safo en el borde: propuesta de edición crítica digital a través de LaTeX y TEI](https://www.youtube.com/watch?v=lCR7VZ4bPRI&t=1485s) —bajo la dirección de la [Dra. Martha Cecilia Jaime González](https://desdethemysciraffyl.mx/bio_cecilia)—, presentado en la [VII sesión del seminario de trabajos de tesis](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2006099333072135), organizado por el grupo de investigación "Desde Themyscira". 
 
