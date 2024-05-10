@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-tags: [about, Jekyll, theme, moon]
+tags: [about, classics, Sappho, Digital edition]
 date: 2016-03-21
 comments: false
 ---
     
 <center><a href="https://twitter.com/heliconide"><b>Alejandra González Jiménez</b></a></center>
-<center>**Diseñadora, creadora de contenido y administradora del sitio web Desde Themyscira**</center>
+<center><i> Latinist, Hellenic, Libertarian and lover of music, flowers and arts, a veces diseñadora, creadora de contenido y administradora del sitio web <a href="https://desdethemysciraffyl.mx/">Desde Themyscira</a></i></center>
 
 Curiosa investigadora de las interacciones humanas y su entorno, así como de la edición de textos antiguos a través de plataformas digitales.
 
