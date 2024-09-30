@@ -30,9 +30,13 @@ disqus_shortname:   heliconide
 
 # Social
 # if you don't have any of social below, comment the line.
-google:
+#google:
   #plus:            #username
+<<<<<<< HEAD
   analytics: G-35KSFJTJEK 
+=======
+  #analytics:
+>>>>>>> parent of 3d5441a (an1)
   #verify:
   #ad-client:
   #ad-slot:
