@@ -13,10 +13,23 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-    
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
-     
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+# /now — En qué estoy trabajando
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+*Última actualización: Noviembre 2026*
+
+Este es un espacio donde comparto mis proyectos, intereses e investigaciones en curso:
+
+### 🏛️ Humanidades Digitales y Recepción Clásica
+- **I Congreso Internacional "Desde Themyscira":** Desarrollando la plataforma web interactiva y Progressive Web App (PWA) para el congreso, enfocada en la consulta del programa académico, conferencias magistrales y seguimiento de asistencia en la Facultad de Filosofía y Letras (UNAM).
+- **Investigación:** Explorando cruces entre literatura clásica, autoría femenina en la antigüedad, paleografía y herramientas digitales para el análisis textual.
+
+### 💻 Desarrollo Web y Diseño
+- Diseñando interfaces ligeras, funcionales y responsivas centradas en la tipografía editorial y la experiencia de lectura.
+- Perfeccionando mi entorno de trabajo y experimentando con arquitecturas limpias en proyectos web estáticos.
+
+### 📚 Lecturas y Escritura
+- Reorganizando mi biblioteca física y notas marginales en Obsidian.
+- Leyendo teoría literaria, poesía y clásicos grecolatinos.
+
+---
+*Inspirado en el concepto de [Now page](https://nownownow.com/about) de Derek Sivers.*
