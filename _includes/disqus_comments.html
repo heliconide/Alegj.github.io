@@ -1,17 +1,23 @@
-{% if site.disqus_shortname %}
-    <script type="text/javascript">
-        var disqus_shortname = '{{ site.disqus_shortname }}';
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-        (function () {
-            var s = document.createElement('script'); s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% if page.comments and site.disqus_shortname %}
+<script>
+    var disqus_config = function () {
+        this.page.url = {{ page.url | absolute_url | jsonify }};
+        /* Preserve the existing URL identity unless an identifier is supplied. */
+        {% if page.disqus_identifier %}
+        this.page.identifier = {{ page.disqus_identifier | jsonify }};
+        {% endif %}
+        this.page.title = {{ page.title | jsonify }};
+        this.language = 'es_MX';
+    };
+    (function () {
+        var script = document.createElement('script');
+        script.src = 'https://' + {{ site.disqus_shortname | jsonify }} + '.disqus.com/embed.js';
+        script.async = true;
+        script.setAttribute('data-timestamp', +new Date());
+        (document.head || document.body).appendChild(script);
+    }());
+</script>
+<noscript>Activa JavaScript para leer y escribir comentarios con Disqus.</noscript>
+<p class="comments-help">Comentarios con Disqus. Si no aparecen, revisa si tu navegador bloquea este servicio.
+<a href="{{ '/contacto/' | relative_url }}">También puedes escribirme directamente.</a></p>
 {% endif %}

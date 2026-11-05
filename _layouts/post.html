@@ -9,7 +9,7 @@ layout: compress
 <head>
     {% include head.html %}
 </head>
-<body>
+<body{% if page.body_class %} class="{{ page.body_class | escape }}"{% endif %}>
     {% include nav.html %}
     <!-- Header -->
     <header class="header" role="banner">
@@ -17,7 +17,9 @@ layout: compress
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
-                    <h4>{{ page.date | date_to_string }}</h4>
+                    {% if page.updated %}
+                    <p class="post-date">Actualizado el <time datetime="{{ page.updated | date: '%Y-%m-%d' }}">{{ page.updated | date: '%d/%m/%Y' }}</time></p>
+                    {% else %}<h4>{{ page.date | date_to_string }}</h4>{% endif %}
                     {% if site.reading_time %}
                     <p class="reading-time">
                       <i class="fa fa-clock-o"></i>
@@ -32,7 +34,7 @@ layout: compress
                         <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>
-                {{ content }}
+                <article class="post-body">{{ content }}</article>
                 <div class="entry-meta">
                 {% include meta.html %}
                 </div>

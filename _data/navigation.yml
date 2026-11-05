@@ -1,4 +1,7 @@
 # Site navigation links
-
-- title: Projects
+- title: Proyectos
   url: /projects/
+- title: En qué estoy
+  url: /moon-theme/
+- title: Contacto
+  url: /contacto/

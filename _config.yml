@@ -7,8 +7,8 @@ words_per_minute:   200
 logo:               'assets/img/CatAle.jpg'
 background:         'assets/img/starry.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-#url:                http://alejandragj.com/
+locale:             es_MX
+url:                https://alejandragj.com
 
 # Jekyll
 permalink:          /:title/
@@ -37,7 +37,7 @@ google:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              heliconideu@gmail.com
 twitter:            heliconide
 facebook:           heliconide
 github-url:         heliconide

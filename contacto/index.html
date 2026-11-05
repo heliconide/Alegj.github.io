@@ -1,0 +1,14 @@
+---
+layout: page
+title: Contacto
+permalink: /contacto/
+comments: false
+---
+<div class="contact-card">
+    <p class="contact-intro">Conversemos.</p>
+    <p>Si quieres hablar sobre humanidades digitales, estudios clásicos, diseño web o una posible colaboración, puedes escribirme por correo.</p>
+    <a class="contact-button" href="mailto:{{ site.email | escape }}">Escríbeme por correo <span aria-hidden="true">↗</span></a>
+    <p><a href="mailto:{{ site.email | escape }}">{{ site.email }}</a></p>
+    <p class="contact-note">El botón abre tu aplicación de correo. También puedes copiar la dirección y escribir desde el servicio que uses.</p>
+    {% if site.instagram %}<p>También estoy en <a href="https://www.instagram.com/{{ site.instagram | escape }}/" target="_blank" rel="noopener noreferrer">Instagram: @{{ site.instagram }}</a>.</p>{% endif %}
+</div>

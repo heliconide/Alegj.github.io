@@ -1,0 +1,49 @@
+// Focused reading styles for the current-work page.
+.now-page {
+  background-color: #f3f0eb;
+  background-image: none !important;
+  .wrapper {
+    width: calc(100% - 40px);
+    max-width: 860px;
+    margin: 80px auto 64px;
+    padding: 64px 72px;
+    background: #fffdf9;
+    border: 1px solid #e4ddd3;
+    border-radius: 8px;
+    box-shadow: 0 12px 40px rgba(47, 40, 35, .06);
+  }
+  .content { padding: 0; text-align: left; font-size: 18px; line-height: 1.8; }
+  .post-title { text-align: left; margin-bottom: 40px; }
+  h1 { font-family: Georgia, serif; font-size: 48px; line-height: 1.14; font-weight: normal; margin: 0 0 20px; letter-spacing: -.025em; }
+  .post-date, .reading-time { font-size: 14px; font-weight: normal; color: #71675c; margin: 4px 0; }
+  .reading-time { text-align: left; }
+  .animated { animation: none; }
+  .post-title .btn { margin-top: 16px; }
+  .post-body { color: #393731; }
+  .post-body h2 { font-family: Georgia, serif; font-weight: normal; font-size: 30px; line-height: 1.3; margin: 48px 0 20px; padding-top: 28px; border-top: 1px solid #e4ddd3; }
+  .post-body h3 { font-size: 19px; line-height: 1.4; margin: 28px 0 8px; }
+  .post-body p { margin: 0 0 22px; }
+  .now-intro { font-family: Georgia, serif; font-size: 27px; line-height: 1.45; color: #786044; }
+  .post-body a { color: #765332; text-underline-offset: 4px; }
+  .now-invitation { background: #f2ece3; border-left: 3px solid #99764e; padding: 24px; margin: 40px 0; border-radius: 0 6px 6px 0; }
+  .now-invitation p { margin-bottom: 6px; font-weight: bold; }
+  .entry-meta { clear: both; overflow: auto; margin-top: 32px; }
+  #disqus_thread { width: calc(100% - 40px); padding: 32px; margin: 0 auto 64px; border-radius: 8px; }
+  @media (max-width: 600px) {
+    .wrapper { margin-top: 76px; padding: 32px 22px; }
+    .content { font-size: 17px; }
+    h1 { font-size: 36px; }
+    .post-body h2 { font-size: 27px; }
+    .now-intro { font-size: 24px; }
+    #disqus_thread { padding: 22px; }
+  }
+}
+.contact-card { text-align: left; font-size: 18px; line-height: 1.7; overflow-wrap: anywhere; }
+.contact-intro { font-family: Georgia, serif; font-size: 30px; }
+.contact-card .contact-button { display: inline-block; background: #35332e; color: #fff; padding: 14px 22px; border-radius: 5px; text-decoration: none; }
+.contact-card .contact-button:hover { background: #65503a; }
+.contact-note, .comments-help { font-size: 14px; line-height: 1.6; }
+a:focus-visible { outline: 3px solid #99764e; outline-offset: 4px; }
+@media (prefers-reduced-motion: reduce) { .now-page .animated { animation: none; } }
+
+.comments-help { max-width: 850px; width: 90%; margin: 0 auto 40px; padding: 16px; color: #393731; background: #fffdf9; border-radius: 5px; }
