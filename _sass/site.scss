@@ -19,20 +19,10 @@ body {
 	color: $color_tuatara;
 	background-color: $bodycolor;
 	display: flow-root;
-	isolation: isolate;
-}
-// A fixed layer covers the viewport even when mobile browsers scroll long pages.
-body::before {
-	content: "";
-	position: fixed;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	z-index: -1;
-	pointer-events: none;
-	background-color: $bodycolor;
-	background-position: center center;
+	height: auto;
+	min-height: 100vh;
+	background-position: center top;
+	background-attachment: scroll;
 }
 
 * {
@@ -48,7 +38,7 @@ body::before {
 	height: 100%;
 	position: relative;
 	width: 100%;
-	min-height: 300px;
+	min-height: 100vh;
 	text-align: left;
 	color: $white;
 	@media #{$small} {
