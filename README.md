@@ -4,17 +4,10 @@ Sitio estático con Jekyll y el tema Moon.
 
 ## Comentarios
 
-En `_config.yml`, `disqus_shortname: heliconide` selecciona el foro existente.
-Cada entrada que permita comentarios debe tener `comments: true`; las páginas
-sin esa opción no cargan Disqus. La URL canónica usa `https://alejandragj.com`.
-Se conserva la identidad por URL para no cambiar deliberadamente los hilos
-existentes. No añadas `disqus_identifier` a un hilo existente sin revisar su
-identificador en Disqus y, si hace falta, migrarlo.
-
-Después de publicar, abre una entrada y comprueba que aparece el formulario.
-En la administración de Disqus confirma que el foro `heliconide` pertenece a tu
-cuenta, que su dirección es `https://alejandragj.com` y que la discusión no esté
-cerrada. Revisa también si el navegador bloquea Disqus.
+Los comentarios están desactivados por ahora. `disqus_shortname` está vacío
+en `_config.yml` y la entrada actual usa `comments: false`. El sitio generado
+no carga Disqus ni muestra el recuadro o el aviso de comentarios.
+La página de contacto sigue disponible para escribir por correo.
 
 ## Google Analytics 4
 

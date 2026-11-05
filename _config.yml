@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   heliconide
+disqus_shortname:   # Comentarios desactivados por ahora
 
 # Social
 # if you don't have any of social below, comment the line.

@@ -12,7 +12,7 @@ tag:
 - humanidades-digitales
 - estudios-clásicos
 - diseño-web
-comments: true
+comments: false
 ---
 
 <p class="now-intro">Entre los textos antiguos y las posibilidades de lo digital.</p>
@@ -43,3 +43,5 @@ Estoy reorganizando mi biblioteca física y mis notas marginales en Obsidian. En
 </div>
 
 ---
+
+Esta página está inspirada en el concepto de [Now page](https://nownownow.com/about) de Derek Sivers: una pequeña ventana a lo que estoy haciendo ahora.
