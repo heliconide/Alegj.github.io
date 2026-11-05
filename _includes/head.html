@@ -35,7 +35,7 @@
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- CSS -->
-    <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css?v={{ site.time | date: '%s' }}">
     <!-- JS -->
     <script src="{{ site.url }}/assets/js/modernizr-3.3.1.custom.min.js"></script>
     <!-- Favicons -->
@@ -49,7 +49,7 @@
     {% if site.background %}
     {% capture background %}{{ site.background }}{% endcapture %}
     {% unless background contains 'http://' or background contains 'https://' %}{% capture background %}{{ site.url }}/{{ background }}{% endcapture %}{% endunless %}
-    <style type="text/css">body {background-image:url({{ background }}); {% unless site.tiled_bg %} background-repeat: no-repeat; background-size: cover; {% endunless %}}</style>
+    <style type="text/css">body::before {background-image:url({{ background }}); {% unless site.tiled_bg %} background-repeat: no-repeat; background-size: cover; {% endunless %}}</style>
     {% endif %}
     <!-- Post Feature Image -->
     {% if page.feature %}

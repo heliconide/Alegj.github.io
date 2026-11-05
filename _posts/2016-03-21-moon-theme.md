@@ -41,7 +41,3 @@ Estoy reorganizando mi biblioteca física y mis notas marginales en Obsidian. En
 <p>¿Compartimos algún interés?</p>
 <a href="{{ '/contacto/' | relative_url }}">Hablemos de un proyecto o una idea <span aria-hidden="true">↗</span></a>
 </div>
-
----
-
-Esta página está inspirada en el concepto de [Now page](https://nownownow.com/about) de Derek Sivers: una pequeña ventana a lo que estoy haciendo ahora.

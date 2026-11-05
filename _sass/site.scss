@@ -18,13 +18,23 @@ body {
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
 	background-color: $bodycolor;
-	background-position: center center;
-	background-attachment: fixed;
-	@media #{$small} {
-	    background-image: none !important;
-		background: $white;
-	}
+	display: flow-root;
+	isolation: isolate;
 }
+// A fixed layer covers the viewport even when mobile browsers scroll long pages.
+body::before {
+	content: "";
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: -1;
+	pointer-events: none;
+	background-color: $bodycolor;
+	background-position: center center;
+}
+
 * {
 	box-sizing: border-box;
 }
