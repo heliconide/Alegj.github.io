@@ -6,7 +6,7 @@ date: 2024-05-10
 comments: false
 ---
     
-## <center><a href="https://desdethemysciraffyl.mx/bio_ale"><b>Alejandra González Jiménez</b></a></center>
+## <center><a href="https://desdethemysciraffyl.org/bio_ale"><b>Alejandra González Jiménez</b></a></center>
 <center><i> Helenista, latinista, libertaria y amante de la música, las flores y el arte.</i></center>
 
 Curiosa investigadora de las interacciones humanas y su entorno, así como de la edición de textos antiguos a través de plataformas digitales.
